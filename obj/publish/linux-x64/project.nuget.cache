@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9cbUJSB/fA/4rYh7FkGgbH63nhKzD6c9Z4mdnZuoKxQVBoI0R4Ady+ipPtYFhIxgHVtUlmd2RFCBTjqE0jUamg==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\CSharp Projects\\PexeFramework\\PexeFramework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smart\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\5.0.4\\microsoft.netcore.app.runtime.linux-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\5.0.4\\microsoft.aspnetcore.app.runtime.linux-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.4\\microsoft.netcore.app.host.linux-x64.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

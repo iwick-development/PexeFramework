@@ -1,0 +1,6 @@
+D:\Development\CSharp Projects\PexeFramework\bin\publish\PexeFramework.pdb
+D:\Development\CSharp Projects\PexeFramework\bin\publish\clrcompression.dll
+D:\Development\CSharp Projects\PexeFramework\bin\publish\clrjit.dll
+D:\Development\CSharp Projects\PexeFramework\bin\publish\coreclr.dll
+D:\Development\CSharp Projects\PexeFramework\bin\publish\mscordaccore.dll
+D:\Development\CSharp Projects\PexeFramework\bin\publish\PexeFramework.exe

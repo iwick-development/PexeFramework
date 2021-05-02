@@ -1,0 +1,5 @@
+D:\Development\CSharp Projects\PexeFramework\bin\publish\PexeFramework.exe
+D:\Development\CSharp Projects\PexeFramework\bin\publish\PexeFramework.dll
+D:\Development\CSharp Projects\PexeFramework\bin\publish\PexeFramework.deps.json
+D:\Development\CSharp Projects\PexeFramework\bin\publish\PexeFramework.runtimeconfig.json
+D:\Development\CSharp Projects\PexeFramework\bin\publish\PexeFramework.pdb

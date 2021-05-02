@@ -1,0 +1,2 @@
+D:\Development\CSharp Projects\PexeFramework\bin\publish\PexeFramework.pdb
+D:\Development\CSharp Projects\PexeFramework\bin\publish\PexeFramework

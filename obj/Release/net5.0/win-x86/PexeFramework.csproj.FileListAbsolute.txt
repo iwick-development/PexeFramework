@@ -1,0 +1,15 @@
+D:\Development\CSharp Projects\PexeFramework\bin\Release\net5.0\win-x86\PexeFramework.exe
+D:\Development\CSharp Projects\PexeFramework\bin\Release\net5.0\win-x86\PexeFramework.deps.json
+D:\Development\CSharp Projects\PexeFramework\bin\Release\net5.0\win-x86\PexeFramework.runtimeconfig.json
+D:\Development\CSharp Projects\PexeFramework\bin\Release\net5.0\win-x86\PexeFramework.runtimeconfig.dev.json
+D:\Development\CSharp Projects\PexeFramework\bin\Release\net5.0\win-x86\PexeFramework.dll
+D:\Development\CSharp Projects\PexeFramework\bin\Release\net5.0\win-x86\ref\PexeFramework.dll
+D:\Development\CSharp Projects\PexeFramework\bin\Release\net5.0\win-x86\PexeFramework.pdb
+D:\Development\CSharp Projects\PexeFramework\obj\Release\net5.0\win-x86\PexeFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CSharp Projects\PexeFramework\obj\Release\net5.0\win-x86\PexeFramework.AssemblyInfoInputs.cache
+D:\Development\CSharp Projects\PexeFramework\obj\Release\net5.0\win-x86\PexeFramework.AssemblyInfo.cs
+D:\Development\CSharp Projects\PexeFramework\obj\Release\net5.0\win-x86\PexeFramework.csproj.CoreCompileInputs.cache
+D:\Development\CSharp Projects\PexeFramework\obj\Release\net5.0\win-x86\PexeFramework.dll
+D:\Development\CSharp Projects\PexeFramework\obj\Release\net5.0\win-x86\ref\PexeFramework.dll
+D:\Development\CSharp Projects\PexeFramework\obj\Release\net5.0\win-x86\PexeFramework.pdb
+D:\Development\CSharp Projects\PexeFramework\obj\Release\net5.0\win-x86\PexeFramework.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Development\CSharp Projects\PexeFramework\bin\Debug\net5.0\PexeFramework.exe
+D:\Development\CSharp Projects\PexeFramework\bin\Debug\net5.0\PexeFramework.deps.json
+D:\Development\CSharp Projects\PexeFramework\bin\Debug\net5.0\PexeFramework.runtimeconfig.json
+D:\Development\CSharp Projects\PexeFramework\bin\Debug\net5.0\PexeFramework.runtimeconfig.dev.json
+D:\Development\CSharp Projects\PexeFramework\bin\Debug\net5.0\PexeFramework.dll
+D:\Development\CSharp Projects\PexeFramework\bin\Debug\net5.0\ref\PexeFramework.dll
+D:\Development\CSharp Projects\PexeFramework\bin\Debug\net5.0\PexeFramework.pdb
+D:\Development\CSharp Projects\PexeFramework\obj\Debug\net5.0\PexeFramework.csprojAssemblyReference.cache
+D:\Development\CSharp Projects\PexeFramework\obj\Debug\net5.0\PexeFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CSharp Projects\PexeFramework\obj\Debug\net5.0\PexeFramework.AssemblyInfoInputs.cache
+D:\Development\CSharp Projects\PexeFramework\obj\Debug\net5.0\PexeFramework.AssemblyInfo.cs
+D:\Development\CSharp Projects\PexeFramework\obj\Debug\net5.0\PexeFramework.csproj.CoreCompileInputs.cache
+D:\Development\CSharp Projects\PexeFramework\obj\Debug\net5.0\PexeFramework.dll
+D:\Development\CSharp Projects\PexeFramework\obj\Debug\net5.0\ref\PexeFramework.dll
+D:\Development\CSharp Projects\PexeFramework\obj\Debug\net5.0\PexeFramework.pdb
+D:\Development\CSharp Projects\PexeFramework\obj\Debug\net5.0\PexeFramework.genruntimeconfig.cache
