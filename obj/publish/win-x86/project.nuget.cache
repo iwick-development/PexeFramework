@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Cyc6s7TYNpwGK9BagMKhtp14OHqm6vltHXC78fN8ynOwG+d/b9USThSbP+Ly/NKcI1ollCRlJK0kCSQ4FC7fPg==",
+  "dgSpecHash": "2WWqmv4VcM2e0DBOsXphce71Et4u3hegVbz1K0JTMSIO8iIxeW/gUDS3dhaAWE+ntxArJ5bR+WIq35+sQxP6QA==",
   "success": true,
-  "projectFilePath": "D:\\Development\\CSharp Projects\\PexeFramework\\PexeFramework.csproj",
+  "projectFilePath": "C:\\Users\\smart\\Documents\\GitHub\\PexeFramework\\PexeFramework.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\smart\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.4\\microsoft.netcore.app.runtime.win-x86.5.0.4.nupkg.sha512",
-    "C:\\Users\\smart\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.4\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.4.nupkg.sha512",
-    "C:\\Users\\smart\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.4\\microsoft.aspnetcore.app.runtime.win-x86.5.0.4.nupkg.sha512"
+    "C:\\Users\\smart\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.7\\microsoft.netcore.app.runtime.win-x86.5.0.7.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.7\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.7.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.7\\microsoft.aspnetcore.app.runtime.win-x86.5.0.7.nupkg.sha512"
   ],
   "logs": []
 }

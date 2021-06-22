@@ -39,19 +39,19 @@ namespace PexeFramework
         {
             Console.WriteLine("[Pack] Packing project...");
 
-            if (!Directory.Exists(path))
+            if (!Directory.Exists(path)) // Check if the project path exists
             {
                 Console.WriteLine("[Err] Project path did not exist");
                 return;
             }
 
-            if (!File.Exists(path + "/main.py"))
+            if (!File.Exists(path + "/main.py")) // Make sure a main.py to execute exists
             {
                 Console.WriteLine("[Err] Entry 'main.py' does not exist");
                 return;
             }
 
-            if (!File.Exists(path + "/requirements.txt"))
+            if (!File.Exists(path + "/requirements.txt")) // Makes sure a requirements file exists
             {
                 Console.WriteLine("[Err] Requirements.txt is missing");
                 return;
@@ -73,14 +73,14 @@ namespace PexeFramework
 
             ZipFile.ExtractToDirectory(path, execute_path); // Extract .pexe file to execute path
 
-            if (!File.Exists(execute_path + "/main.py"))
+            if (!File.Exists(execute_path + "/main.py")) // Make sure the pexe file contained a main.py
             {
                 Console.WriteLine("[Err] Invalid or corrupt file: Missing main.py");
                 Directory.Delete(execute_path, true);
                 return;
             }
 
-            if (!File.Exists(execute_path + "/requirements.txt"))
+            if (!File.Exists(execute_path + "/requirements.txt")) // Make sure the pexe file containerd requirements file
             {
                 Console.WriteLine("[Err] Invalid or corrupt file: Missing requirements.txt");
                 Directory.Delete(execute_path, true);

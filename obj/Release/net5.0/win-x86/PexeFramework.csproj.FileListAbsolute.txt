@@ -13,3 +13,18 @@ D:\Development\CSharp Projects\PexeFramework\obj\Release\net5.0\win-x86\PexeFram
 D:\Development\CSharp Projects\PexeFramework\obj\Release\net5.0\win-x86\ref\PexeFramework.dll
 D:\Development\CSharp Projects\PexeFramework\obj\Release\net5.0\win-x86\PexeFramework.pdb
 D:\Development\CSharp Projects\PexeFramework\obj\Release\net5.0\win-x86\PexeFramework.genruntimeconfig.cache
+C:\Users\smart\Documents\GitHub\PexeFramework\bin\Release\net5.0\win-x86\PexeFramework.exe
+C:\Users\smart\Documents\GitHub\PexeFramework\bin\Release\net5.0\win-x86\PexeFramework.deps.json
+C:\Users\smart\Documents\GitHub\PexeFramework\bin\Release\net5.0\win-x86\PexeFramework.runtimeconfig.json
+C:\Users\smart\Documents\GitHub\PexeFramework\bin\Release\net5.0\win-x86\PexeFramework.runtimeconfig.dev.json
+C:\Users\smart\Documents\GitHub\PexeFramework\bin\Release\net5.0\win-x86\PexeFramework.dll
+C:\Users\smart\Documents\GitHub\PexeFramework\bin\Release\net5.0\win-x86\ref\PexeFramework.dll
+C:\Users\smart\Documents\GitHub\PexeFramework\bin\Release\net5.0\win-x86\PexeFramework.pdb
+C:\Users\smart\Documents\GitHub\PexeFramework\obj\Release\net5.0\win-x86\PexeFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\Documents\GitHub\PexeFramework\obj\Release\net5.0\win-x86\PexeFramework.AssemblyInfoInputs.cache
+C:\Users\smart\Documents\GitHub\PexeFramework\obj\Release\net5.0\win-x86\PexeFramework.AssemblyInfo.cs
+C:\Users\smart\Documents\GitHub\PexeFramework\obj\Release\net5.0\win-x86\PexeFramework.csproj.CoreCompileInputs.cache
+C:\Users\smart\Documents\GitHub\PexeFramework\obj\Release\net5.0\win-x86\PexeFramework.dll
+C:\Users\smart\Documents\GitHub\PexeFramework\obj\Release\net5.0\win-x86\ref\PexeFramework.dll
+C:\Users\smart\Documents\GitHub\PexeFramework\obj\Release\net5.0\win-x86\PexeFramework.pdb
+C:\Users\smart\Documents\GitHub\PexeFramework\obj\Release\net5.0\win-x86\PexeFramework.genruntimeconfig.cache

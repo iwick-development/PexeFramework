@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\CSharp Projects\\PexeFramework\\PexeFramework.csproj",
+      "projectUniqueName": "C:\\Users\\smart\\Documents\\GitHub\\PexeFramework\\PexeFramework.csproj",
       "projectName": "PexeFramework",
-      "projectPath": "D:\\Development\\CSharp Projects\\PexeFramework\\PexeFramework.csproj",
+      "projectPath": "C:\\Users\\smart\\Documents\\GitHub\\PexeFramework\\PexeFramework.csproj",
       "packagesPath": "C:\\Users\\smart\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\CSharp Projects\\PexeFramework\\obj\\",
+      "outputPath": "C:\\Users\\smart\\Documents\\GitHub\\PexeFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

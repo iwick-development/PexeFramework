@@ -1,0 +1,2 @@
+C:\Users\smart\Documents\GitHub\PexeFramework\bin\publish\PexeFramework.pdb
+C:\Users\smart\Documents\GitHub\PexeFramework\bin\publish\PexeFramework.exe
